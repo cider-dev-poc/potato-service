@@ -1,3 +1,3 @@
 # potato-service
 
-This is a potato!
+This is just a potato!
